@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Finance",
+  "description": "A real-time stock market dashboard featuring simulated live pricing updates and an AI-powered financial analyst using Gemini with Google Search Grounding for real-world news and sentiment analysis.",
+  "requestFramePermissions": []
+}
